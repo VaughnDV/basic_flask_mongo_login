@@ -1,4 +1,12 @@
-Code that goes along with a video I made here: https://www.youtube.com/watch?v=vVx1737auSE
+# Basic Flask PyMongo Auth
 
-This is for a user login system using Flask and MongoDB.
-# basic_flask_mongo_login
+An extremely basic template of a Flask and PyMongo Authentication system
+
+## Setup
+
+* Create and activate a virtual enviroment
+* `pip install -r requirements.txt
+* In *app.py*, edit "MONGO_URI" to equal your mongodb URI
+* `python.py`
+
+
